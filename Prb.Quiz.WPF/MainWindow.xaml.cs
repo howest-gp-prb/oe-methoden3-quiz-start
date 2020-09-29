@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Methoden3.Quiz.WPF
+namespace Prb.Quiz.WPF
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
